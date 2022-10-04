@@ -1,4 +1,4 @@
-# Welcome to my personal portfolio website
+## Welcome to my personal portfolio website
 
 Site URL: (https://www.cigomba.tech).
 
