@@ -6,7 +6,7 @@ Site URL: (https://www.cigomba.tech).
 
 This site was created with React, Skeleton
 
-Language: HTML, CSS, and JS
+Languages: HTML, CSS, and JS
 
 ### Acknowledgements
 
