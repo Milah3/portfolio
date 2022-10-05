@@ -1,0 +1,32 @@
+.navbar {
+    margin: 10px auto;
+}
+
+a {
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+
+.row > div > a:hover {
+    /* background-color: #eee; */
+    text-decoration: underline;
+}
+
+.menu-icons {
+    display: flex;
+}
+
+.menu-icons > ul {
+    list-style-type: none;
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: space-around; */
+    gap: 20px;
+}
+
+.menu-icons ul li a:hover {
+    background-color: #eee;
+    border-radius: 10px;
+    /* color: goldenrod; */
+}   
