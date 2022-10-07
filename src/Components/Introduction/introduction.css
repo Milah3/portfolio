@@ -1,3 +1,20 @@
 img {
     border-radius: 100%;
+    width: 50%;
+    box-shadow:
+    0px 0.5px 2.2px rgba(0, 0, 0, 0.02),
+    0px 1.1px 5.3px rgba(0, 0, 0, 0.028),
+    0px 2.1px 10px rgba(0, 0, 0, 0.035),
+    0px 3.8px 17.9px rgba(0, 0, 0, 0.042),
+    0px 7.1px 33.4px rgba(0, 0, 0, 0.05),
+    0px 17px 80px rgba(0, 0, 0, 0.07)
+  ;
+}
+
+img:hover {
+    border: 1px solid goldenrod;
+}
+
+.name-introduction  {
+    text-align: center;
 }

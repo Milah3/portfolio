@@ -1,0 +1,52 @@
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-height: 100vh;
+    background: white;
+    width: 100%;
+}
+
+#remove-btn {
+    position: fixed;
+    top: 5px;
+    right: 5px;
+    font-size: 1.5em;
+    color: initial;
+}
+
+#remove-btn:hover {
+    cursor: pointer;
+}
+
+.modal-content {
+    /* float: left; */
+    text-align: left;
+    width: clamp(35%, 35%, 50%);
+    /* padding-left: 25%; */
+    margin: 0 25%;
+    padding-top: 100px;
+}
+
+textarea {
+    height: 100px;
+    width: 100%;
+}
+
+.btn {
+    /* background-color: whitesmoke; */
+}
+
+.btn:hover {
+    background-color: darkgoldenrod;
+    color: white;
+    border-color: darkgoldenrod;
+  }
+  
+  input, textarea {
+    border-color: darkgoldenrod !important;
+  }
+
+  h4 > a, h4 > a:hover{
+    color: goldenrod;
+}

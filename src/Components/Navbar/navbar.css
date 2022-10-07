@@ -1,6 +1,8 @@
 .navbar {
     margin: 10px auto;
+    font-size: 1.2em;
 }
+
 
 a {
     border-radius: 10px;
@@ -9,24 +11,19 @@ a {
 
 
 .row > div > a:hover {
-    /* background-color: #eee; */
-    text-decoration: underline;
+    background-color: #eee;
+    /* text-decoration: underline; */
 }
 
-.menu-icons {
+div > ul {
     display: flex;
-}
-
-.menu-icons > ul {
+    justify-content: center;
     list-style-type: none;
-    display: flex;
-    /* align-items: center; */
-    /* justify-content: space-around; */
     gap: 20px;
 }
 
-.menu-icons ul li a:hover {
+ul li a:hover {
     background-color: #eee;
-    border-radius: 10px;
+    /* border-radius: 10px; */
     /* color: goldenrod; */
 }   

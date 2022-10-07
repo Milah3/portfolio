@@ -8,12 +8,12 @@ import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 const Navbar = () => {
   return (
     <>
-      <div className="navbar row">
+      <div className="row navbar">
         <div className="one-third column">
-          <a href='/'>Cigomba.tech</a>
+          <a href='/' >Cigomba.tech</a>
           </div>
         <div className="one-third column">&nbsp;</div>
-        <div className="one-third column menu-icons">
+        <div className="one-third column">
           <ul>
             <li>
               <a href="https://github.com/Milah3">

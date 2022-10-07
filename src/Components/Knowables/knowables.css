@@ -1,0 +1,13 @@
+.knowables {
+    text-align: left;
+}
+
+.prog-tools {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+.prog-tools li:hover {
+    color: inherit;
+}

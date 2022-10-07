@@ -3,10 +3,10 @@
 }
 
 .br {
-  border: 1px solid black;
+  border: 1px solid darkgoldenrod;
 }
 
 .h5 {
-  height: 50vh;
+  min-height: 50vh;
   width: auto;
 }
